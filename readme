@@ -1,0 +1,7 @@
+To be able to run the code, you need to install the ODE library and place its header and library files in your filepath.
+
+To evolve your own gaits for the quadruped, you can play with the parameters in ga.cpp. Don't forget to change the file paths for printing results and to select your fitness function.
+
+You can change the robot's dimensions by playing with quadruped.cpp.
+
+Finally, to reproduce my graphs, use plots.py.
